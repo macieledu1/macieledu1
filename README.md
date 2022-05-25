@@ -1,5 +1,5 @@
-<h1 align="center">Hello there, I am Maciel</h1>
-<h3 align="center">Almost jedi master and currently working with infrastructure and monitoring.</h3>
+<h3 align="center">Hello there, I am Maciel</h3>
+<h4 align="center"> Working with infrastructure and monitoring.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=macieledu1&label=Visitors&color=78bde8&style=plastic" alt="macieledu1" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Compass.uol](https://compass.uol)
 
-- 🌱 I’m currently learning **Python, Linux and Java.**
+- 🌱 I’m currently learning **Laravel and Java.**
 
 - 📫 Reach me in **macieledu688@gmail.com**
 
